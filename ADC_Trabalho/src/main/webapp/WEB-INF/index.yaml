@@ -1,0 +1,10 @@
+indexes:
+
+- kind: User
+  properties:
+  - name: is_active
+  - name: is_private
+  - name: role
+  - name : email
+  - name : name
+  - name: username
